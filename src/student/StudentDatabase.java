@@ -15,6 +15,7 @@ public class StudentDatabase {
 		System.out.println(student2);
 		
 		student1.showCourses();
+		System.out.println("Uutta koodia");
 	}
 
 }
